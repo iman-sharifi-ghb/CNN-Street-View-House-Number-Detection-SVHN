@@ -1,4 +1,4 @@
-# CNN-Street-View-House-Number-Detection
+# Street-View-House-Number-Detection-Using-CNN
 ### CNN Structure:
 ![alt text](https://github.com/98210184/CNN-Street-View-House-Number-Detection/blob/master/CNN_Images/cnn0.png?raw=true)
 
