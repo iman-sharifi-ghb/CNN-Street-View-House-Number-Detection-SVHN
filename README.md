@@ -1,4 +1,6 @@
 # Street-View-House-Number-Detection-Using-CNN
+In this project, we aim to develop a Convelutional Neural Netwrk platform, as a Deep Learning algorithm, to detect the house numbers using the MNIST dataset. We could achieve 95% accuracy in the training process and also compared our algorithm with a Fully Connected Layer, placing an emphasis on the reliabality of the network.
+
 ### CNN Structure:
 ![alt text](https://github.com/98210184/CNN-Street-View-House-Number-Detection/blob/master/CNN_Images/cnn0.png?raw=true)
 
